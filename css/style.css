@@ -374,3 +374,90 @@ header .container nav ul li a{
     text-transform: uppercase;
     color: #3D5675;
 }
+
+
+.last__section{
+    background-color: #EEEEEE;
+    padding-top: 88px;
+    padding-bottom: 56px;
+}
+.last__section h3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #011F3A;
+    padding-bottom: 59px;
+}
+
+.last__cont{
+    background-color: #fff;
+}
+
+.first__inner__last{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 144px;
+}
+.inner__last__cont{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 55px;
+}
+.last__cont__text{
+    padding-top: 62px;
+}
+.last__cont__text p{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #011F3A;
+    padding-bottom: 12px;
+}
+.last__cont__sect{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 106px;
+}
+.last__cont__sect h4{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #011F3A;
+    padding-left: 15px;
+}
+.last__cont__sect h5{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #A1A1A1;
+    padding-right: 18px;
+    padding-left: 15px;
+}
+.last__cont__sect a{
+    padding: 13px 25px;
+    background-color: #F2F2F2;
+    border-radius: 44px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.96px;
+    text-transform: uppercase;
+    color: #3D5675;
+}
+
+.middle{
+    padding-left: 106px;
+}
